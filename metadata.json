@@ -1,0 +1,21 @@
+{
+  "name": "Nuray Token",
+  "symbol": "NURAY",
+  "description": "Nuray Token is an educational SPL Token-2022 project built on Solana Devnet for Week 7. It demonstrates token creation, minting, transfers, metadata extensions, and JavaScript client integration.",
+  "decimals": 9,
+  "external_url": "https://solana.com",
+  "attributes": [
+    {
+      "trait_type": "Network",
+      "value": "Solana Devnet"
+    },
+    {
+      "trait_type": "Token Standard",
+      "value": "Token-2022"
+    },
+    {
+      "trait_type": "Project",
+      "value": "Week 7 - SPL Tokens and Token Extensions"
+    }
+  ]
+}
